@@ -1,0 +1,85 @@
+.activity-padding {
+    padding: 8%;
+    border: 2px solid #dbdbdb;
+    background-color: #e1e1e1;
+    border-radius: 15px;
+    margin-top: 6%;
+
+    .svg-inline--fa {
+        font-size: 129%;
+        margin-top: 3px;
+        margin-left: -10px;
+    }
+
+    h4,
+    p {
+        margin-bottom: 0;
+    }
+
+    .margin-bott {
+        margin: 0 0 20px 0;
+    }
+    .progress-div {
+        width: 70%;
+        transform: rotate(-90deg);
+        padding-top: 19%;
+        padding-right: -52px !important;
+        margin-right: -86%;
+        margin-top: -28%;
+    }
+    .rotate {
+        padding: 0 3%;
+    }
+    .mon {
+        width: 99%;
+    }
+    .tue {
+        width: 90%;
+        opacity: 50%;
+    }
+    .wed {
+        opacity: 50%;
+        width: 80%;
+    }
+    .thu {
+        opacity: 50%;
+        width: 70%;
+    }
+    .fri {
+        opacity: 50%;
+        width: 60%;
+    }
+    .sat {
+        opacity: 50%;
+        width: 50%;
+    }
+    .sun {
+        opacity: 50%;
+        width: 40%;
+    }
+    .progress-head-div{
+        margin-top: 20px;
+    }
+    .progress {
+        margin: 15%;
+        height: 9px;
+        background-color: #e1e1e1;
+    }
+    .progress-day {
+        font-size: 9px;
+        color: rgb(105, 105, 105);
+    }
+    .progress-day-div {
+        margin-top: -97px;
+    }
+    .progress-heading {
+        font-size: 19px;
+        font-weight: 700;
+    }
+    .progress-subheading {
+        float: right;
+        font-size: 12px;
+        margin-top: 7px;
+        color: #6a6a6a;
+    }
+}

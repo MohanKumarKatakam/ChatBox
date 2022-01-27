@@ -1,0 +1,41 @@
+.user-details{
+    padding: 10%;
+    background-color: #00000040;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    padding: 6%;
+    width: 38%;
+    border-radius: 70%;
+    background-image: linear-gradient(to top right, #a9c2ff, #cfe0ff);
+    // margin-left:31%;
+    margin: auto;
+    display: block;
+    margin-bottom: 3%;
+    
+}
+@media screen and (min-width: 374px) and  (max-width:769px) {
+    h1 {
+      width: 26%;
+    }
+  }
+
+.user-data{
+    margin-left: 3%;
+}
+
+.user-archive{
+    text-align: center;
+    margin: auto;
+    display: block;
+    color: #1959fc;
+    border: 1.5px solid #1959fc;
+    font-weight: 500;
+    padding: 5% 10%;
+    background-color: white;
+    // border: 2px solid rgba(70, 70, 70, 0.397);
+    margin-top: 5%;
+    border-radius:10px;
+}

@@ -1,0 +1,24 @@
+.track-styles {
+    padding: 3% 22% 3% 0;
+    border: 1.5px solid #b9b9b9;
+    background-color: #c9c9c9;
+    padding-left: 10%;
+    border-radius: 5px;
+
+    .icon-effets {
+        border-radius: 125px;
+        height: 33px;
+        margin-top: 8px;
+        margin-left: 10%;
+    }
+    .track-details{
+        font-weight: 700;
+        font-size: 16px;
+    }
+    .track-title{
+        font-size: 11px;
+    }
+    .track-padding-left{
+        padding-left: 5%;
+    }
+}
